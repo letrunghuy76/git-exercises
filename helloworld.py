@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 print(“Hello world”)
 print("Hello OSS Development")
-print("Heloo CTU")
+print("Heloo CTU - CICT")
+
 
 
